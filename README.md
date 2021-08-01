@@ -5,7 +5,7 @@
 I am a curious <b>frontend developer</b> who lives in <b>Sakarya</b>, works for <a href="https://www.vulnhero.com/" target="_blank">VulnHero</a>, a <b>Computer Science</b> student.I love <b>JavaScript</b> and <b>JavasSript Frameworks(Vue.js,Express.js etc.)</b>.
 
 - 🔭 I’m currently working on My Intern Project.
-- 🌱 I’m currently learning Node.Js-Express.Js
+- 🌱 I’m currently learning Node.Js-Express.Js and Nuxtjs
 - 💬 Ask me about Html,Css,JavaScipt and Vue.Js
 - 📫 How to reach me: ssefaekici@gmail.com
 
